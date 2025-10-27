@@ -79,7 +79,7 @@
 
         layer_2 {
             bindings = <
-&kp TILDE     &kp F1          &kp F2         &kp F3                &kp F4                 &kp F5         &mmv MOVE_UP     &kp K_MUTE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp PRINTSCREEN
+&bootloader   &kp F1          &kp F2         &kp F3                &kp F4                 &kp F5         &mmv MOVE_UP     &kp K_MUTE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp PRINTSCREEN
 &trans        &kp PLUS        &kp MINUS      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PERCENT    &mmv MOVE_DOWN   &trans      &kp N7             &kp N8           &kp N9                &kp UNDER             &kp SCROLLLOCK
 &trans        &kp UNDERSCORE  &kp EQUAL      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans         &mmv MOVE_LEFT   &kp N0      &kp N4             &kp N5           &kp N6                &kp LBRC              &kp PAUSE_BREAK
 &kp CAPSLOCK  &kp AT_SIGN     &kp AMPERSAND  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans         &mmv MOVE_RIGHT  &to 2       &kp N1             &kp N2           &kp N3                &bootloader           &trans
